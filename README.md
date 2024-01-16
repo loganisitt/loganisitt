@@ -1,4 +1,6 @@
-👋 Hey there! I'm a Senior iOS Engineer passionate about crafting apps that make a difference. I've been in the iOS game since 2011 and still enjoy the challenge of keeping up with Apple's major updates to iOS development – always an opportunity to learn and evolve with the technology.
+### 👋 Hey there! 
+
+I'm a Senior iOS Engineer passionate about crafting apps that make a difference. I've been in the iOS game since 2011 and still enjoy the challenge of keeping up with Apple's major updates to iOS development – always an opportunity to learn and evolve with the technology.
 
 As a founder of Brogan LLC, I've released many apps on the App Store: Clock In (my baby since 2011), Spell It, Easy Resume, and many that have been sunset. I'm a proud indie developer at heart! My toolbox includes Swift and Objective-C when necessary, and I'm always up for learning new languages. My go-to stack is SwiftUI, Swift Composable Architecture, and Firebase.
 
