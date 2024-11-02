@@ -4,7 +4,7 @@ I'm a Senior iOS Engineer passionate about crafting amazing apps. I've been in t
 
 As a founder of Brogan LLC, I've released many apps on the App Store: [Clock In](https://apps.apple.com/us/app/id534278133) (my baby since 2011), [Spell It](https://apps.apple.com/us/app/id1348293177), [Easy Resume](https://apps.apple.com/us/app/id6473470548), and many that have been sunset. I'm a proud indie developer at heart! My toolbox includes Swift (Objective-C when necessary) and Javascript (Typescript), and I'm always up for learning new languages. My go-to stack is SwiftUI, Swift Composable Architecture, and Firebase.
 
-Professionally, I've been an iOS Engineer for over eight years, contributing to big-name apps like NBA, Delta Airlines, and Spotify. The highlights? Definitely working on the Wrapped and Countdown Pages at Spotify!
+Professionally, I've been an iOS Engineer for over nine years, contributing to big-name apps like NBA, Delta Airlines, and Spotify. The highlights? Definitely working on the Wrapped and Countdown Pages at Spotify!
 
 I hold a Bachelor of Science in Computer Science from Florida State University. Go Seminoles!
 
